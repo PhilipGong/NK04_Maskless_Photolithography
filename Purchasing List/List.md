@@ -12,7 +12,7 @@
 ### Requirements:
 - Ability to be exposed by 405nm / 435nm (g-line) / 365nm (i-line) of light
 ### Possible candidates:
-- AZ503
+- AZ703
 
 ---
 
@@ -23,3 +23,4 @@
 ### Possible candidates:
 
 - TBD
+
