@@ -16,9 +16,10 @@
 
 ---
 
-## Movement state
+## Movement stage
 ### Requirements:
 - 3-axis / 5-axis
 - Manual / Motorized (can be developed for autofocusing)
 ### Possible candidates:
+
 - TBD
