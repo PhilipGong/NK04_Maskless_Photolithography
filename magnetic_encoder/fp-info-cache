@@ -1,4 +1,4 @@
-26775957824156929
+26826327428206693
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97279,12 +97279,117 @@ rotary encoder illuminated switch vertical
 9
 8
 SamacSys_Parts
+3314J2102E
+3314J-2-102E-3
+Variable Resistor
+0
+3
+3
+SamacSys_Parts
+156120VS75000
+156120VS75000-10
+LED
+0
+2
+2
+SamacSys_Parts
+282834-2_1
+282834-2_1
+Connector
+0
+2
+2
+SamacSys_Parts
+14010213101000
+14010213101000-1
+Connector
+0
+6
+6
+SamacSys_Parts
+14010413101000
+14010413101000-2
+Connector
+0
+10
+10
+SamacSys_Parts
+10129380902001BLF
+10129380-902001BLF-3
+Connector
+0
+2
+2
+SamacSys_Parts
+B32653__26.5_x_8.5_
+B32653_(26.5_x_8.5)
+Capacitor
+0
+2
+2
+SamacSys_Parts
+C1206
+C1206
+Capacitor
+0
+2
+2
+SamacSys_Parts
+DIOAD1405W75L465D235
+DO-41_2022
+Diode
+0
+2
+2
+SamacSys_Parts
+DIP-40_700_ELL
+
+
+0
+40
+40
+SamacSys_Parts
 DIP794W53P254L959H508Q8N
 P (R-PDIP-T8)
 Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+DIPS762W64P254L1000H461Q8N
+D0808-42
+Connector
+0
+8
+8
+SamacSys_Parts
+EG1218
+EG1218-3
+Switch
+0
+3
+3
+SamacSys_Parts
+JS102011SCQN
+JS102011SCQN
+Switch
+0
+3
+3
+SamacSys_Parts
+K104K15X7RF5TH5
+K104K15X7RF5TH5-1
+Capacitor
+0
+2
+2
+SamacSys_Parts
+LEDM3216X130N
+156120RS75000
+LED
+0
+2
+2
 SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
@@ -97299,6 +97404,90 @@ Connector
 0
 53
 53
+SamacSys_Parts
+PMEG3050EP115
+SOD128
+Schottky Diode
+0
+2
+2
+SamacSys_Parts
+PRT10030
+PRT-10030-10
+Connector
+0
+10
+10
+SamacSys_Parts
+RASPBERRYPIPICO Socket
+RASPBERRY PI PICO W-6
+Integrated Circuit
+0
+40
+40
+SamacSys_Parts
+RDE5C2A561J0P1H03B
+RDE5C2A561J0P1H03B
+Capacitor
+0
+2
+2
+SamacSys_Parts
+RDER73A103K2K1H03B
+RDER73A103K2K1H03B-2
+Capacitor
+0
+2
+2
+SamacSys_Parts
+RESAD1526W69L610D229
+CMF-55
+Resistor
+0
+2
+2
+SamacSys_Parts
+RESC3116X65N
+RMC1/8-201JTP
+Resistor
+0
+2
+2
+SamacSys_Parts
+RESC3216X70N
+RMCF1206
+Resistor
+0
+2
+2
+SamacSys_Parts
+RESC3216X75N
+CR1206
+Resistor
+0
+2
+2
+SamacSys_Parts
+RESC3216X180N
+CL31B105KAHNNNE
+Capacitor
+0
+2
+2
+SamacSys_Parts
+S275146R
+S2751-46R-1
+Test Point
+0
+1
+1
+SamacSys_Parts
+SOIC127P600X175-8N
+8 Lead SOIC-ren1
+Integrated Circuit
+0
+8
+8
 SamacSys_Parts
 SOP65P640X120-20N
 TSSOP
@@ -97315,7 +97504,7 @@ Integrated Circuit
 3
 SamacSys_Parts
 SOT95P280X145-5N
-DBV (R-PDSO-G5)
+DBV0005A
 Integrated Circuit
 0
 5
@@ -97328,9 +97517,23 @@ Integrated Circuit
 3
 3
 SamacSys_Parts
+TO255P460X1020X2008-3P
+TO-220_2023-2
+MOSFET (N-Channel)
+0
+3
+3
+SamacSys_Parts
 XB324Z8UTJ
 XBEE3 UFL ANT PTH
 Integrated Circuit
+0
+20
+20
+SamacSys_Parts
+XBee SMD Socket
+surface-mounted straight socket strip, 1x10, 2.00mm pitch, single row, style 1 (pin 1 left) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated
+Surface mounted socket strip SMD 1x10 2.00mm single row style1 pin1 left
 0
 20
 20
